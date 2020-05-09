@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="button">Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="category_exp_array">
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Accommodation</item>
+        <item>Leisure</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="category_inc_array">
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_date">Select Date</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="date_textview_android_id"><![CDATA[Date/> <TextView android:id=]]></string>
+    <string name="title">Title</string>
+    <string name="title_activity_tabb">TabbActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="title_activity_wqq">wqq</string>
+    <string name="title_activity_tabb_main">TabbMain</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main_tabb">MainTabbActivity</string>
+</resources>
